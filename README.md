@@ -1,5 +1,5 @@
 # 💫 About Me
-👩🏻‍💻 Neuroscience and Computer Science double major sharing my learning<br>🌱 Mostly projects from classes, research, and for fun<br>🌷 Currently learning about using machine learning for data analysis in my computational biophysics/neuroscience lab!
+👩🏻‍💻 Neuroscience and Computer Science double major sharing my learning<br>🌱 Mostly projects from classes, research, and for fun<br>🌷 Currently investigating applications of machine learning for drug development and analysis in my biophysics/neuroscience lab!
 
 
 ## 🌐 Socials
