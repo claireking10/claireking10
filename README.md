@@ -1,5 +1,5 @@
 # About Me
-- Neuroscience and Computer Science double major at Trinity and University 👩🏻‍💻<br>- Mostly projects from classes, research, and for fun<br>- Currently investigating applications of machine learning for drug development and analysis in my biophysics/neuroscience lab!
+- Neuroscience and Computer Science double major at Trinity and University 👩🏻‍💻<br> - Mostly projects from classes, research, and for fun<br> - Currently investigating applications of machine learning for drug development and analysis in my biophysics/neuroscience lab!
 
 
 ## Socials
